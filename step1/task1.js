@@ -8,4 +8,4 @@ d = a > 40;
 e = b > 10;
 result = d && e;
 
-console.log(result);
+result;
